@@ -37,8 +37,9 @@
         </dependency>
         <dependency>
             <groupId>testautomationu</groupId>
-            <artifactId>Selenium-Project-01</artifactId>
+            <artifactId>webdriver_java</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 </project>
